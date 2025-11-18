@@ -1,4 +1,4 @@
 panphon
 dimsim
 lingpy
-epitran
+g2p_zh_en
