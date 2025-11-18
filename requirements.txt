@@ -1,6 +1,6 @@
 panphon
 dimsim
 lingpy
-openphonemizer
+deep-phonemizer @ git+https://github.com/haoming-codes/DeepPhonemizer@main
 g2pw
 pinyin-to-ipa
