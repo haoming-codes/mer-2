@@ -1,7 +1,7 @@
 panphon
 dimsim
 lingpy
-deep-phonemizer
+openphonemizer
 g2pw
 pinyin-to-ipa
 pytorch
