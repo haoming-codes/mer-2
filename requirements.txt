@@ -2,3 +2,9 @@ panphon
 dimsim
 lingpy
 g2p_zh_en
+cn2an
+inflect
+nltk
+numpy
+pypinyin
+setuptools
