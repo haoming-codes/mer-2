@@ -4,4 +4,3 @@ lingpy
 openphonemizer
 g2pw
 pinyin-to-ipa
-pytorch
