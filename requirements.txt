@@ -1,13 +1,7 @@
 panphon
 dimsim
 lingpy
-g2p_zh_en
-cn2an
-inflect
-nltk
-numpy
-pypinyin
-setuptools
 deep-phonemizer
-g2pW
+g2pw
 pinyin-to-ipa
+pytorch
