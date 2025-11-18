@@ -8,3 +8,6 @@ nltk
 numpy
 pypinyin
 setuptools
+deep-phonemizer
+g2pW
+pinyin-to-ipa
